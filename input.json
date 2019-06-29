@@ -1,0 +1,22 @@
+[
+  {
+    "ts": "123",
+    "proto": "UDP",
+    "metric": 1
+  },
+  {
+    "ts": "123",
+    "proto": "UDP",
+    "metric": 2
+  },
+  {
+    "ts": "253",
+    "proto": "TCP",
+    "metric": 3
+  },
+  {
+    "ts": "253",
+    "proto": "UDP",
+    "metric": 4
+  }
+]
